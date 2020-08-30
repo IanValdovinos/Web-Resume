@@ -1,3 +1,35 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+}
+
+/* Page syles */
+
+#page {
+    margin: 0;
+    width: 100%;
+    display: flex;
+}
+
+/* Left section */
+#left-section {
+    width: 25%;
+    border-right: 1px solid black;
+}
+
+#card {
+    margin: 10px;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+#card img {
+    width: 70%;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+/* Right section */
+#right-section {
+    
 }
