@@ -14,13 +14,16 @@ body {
 /* Left section */
 #left-section {
     width: 25%;
-    border-right: 1px solid black;
+    height: fit-content;
 }
 
 #card {
     margin: 10px;
-    border: 1px solid blue;
+    padding:10px;
+    background-color: #4cbbb9;
+    box-shadow: 10px 10px #0779e4;
     text-align: center;
+    font-size: 0.8em;
 }
 
 #card img {
