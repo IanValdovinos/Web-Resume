@@ -50,5 +50,19 @@ body {
 
 /* Right section */
 #right-section {
-    
+    margin: 10px;
+    border: 1px solid red;
+    width: 75%;
+}
+
+#about-me-page {
+    display: none;
+}
+
+#portfolio-page {
+    display: none;
+}
+
+#experience-page {
+    display: none;
 }
