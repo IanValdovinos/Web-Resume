@@ -53,8 +53,13 @@ body {
 /* Right section */
 #right-section {
     margin: 10px;
-    border: 1px solid red;
     width: 75%;
+}
+
+#home-page {
+    text-align: center;
+    width: 80%;
+    margin: auto;
 }
 
 #about-me-page {
