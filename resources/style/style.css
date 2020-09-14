@@ -56,10 +56,14 @@ body {
     width: 75%;
 }
 
-#home-page {
+.page {
     text-align: center;
     width: 80%;
     margin: auto;
+}
+
+#home-page {
+    
 }
 
 #about-me-page {
